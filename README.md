@@ -6,8 +6,9 @@
 
 
 <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fasunle&show_icons=true&theme=buefy&include_all_commits=true&count_private=false&hide_title=false">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasunle&layout=compact&langs_count=16&theme=midnight-purple&hide_title=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fasunle&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_title=false">
+    
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasunle&layout=compact&langs_count=16&include_all_commits=true&theme=midnight-purple&hide_title=false">
 </div>
 <!-- generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) -->
 
