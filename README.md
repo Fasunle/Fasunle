@@ -2,9 +2,6 @@
 <!-- generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
 ##
-    <span style="color:blue;font-size:24px;">Welcome to <span style="color:green;font-size:35px;"> Fasunle</span>&apos;s repository</span>
-
-<div>I am learning solidity, d3 and more on SQL database management systems.</div>
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fasunle&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_title=false">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasunle&layout=compact&langs_count=16&include_all_commits=true&theme=midnight-purple&hide_title=false">
@@ -26,9 +23,11 @@
     <img align="center" alt="Fasunle-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
+##
 <!-- generated with [devicon](https://devicon.dev/) -->
 
 <!---
 Fasunle/Fasunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div>I am learning solidity, d3 and more on SQL database management systems.</div>
