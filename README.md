@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-I am Kehinde Fasunle. I studied Biochemistry and Molecular Biology in Obafemi Awolowo University, Nigeria 
+I am Kehinde Fasunle. I studied Biochemistry and Molecular Biology in Obafemi Awolowo University, Nigeria.
 I have been motivated to become a software engineer when I took an introductory course on Computer Science in the university.
 
 I am highly motivated to work either alone or with peers. I love to
