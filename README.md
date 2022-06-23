@@ -21,7 +21,35 @@ I look forward to starting a career has a fullstack software developer.
 </div>
 <!-- generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) -->
 
-## 👩‍💻 Stack
+## 👩‍💻 Stacks
+
+> AWS 💯
+
+> Git/GitHub | Heroku | CI/CD ❤️
+
+> Python 🐍
+
+> Nodejs ✅
+
+> Typescript ✅
+
+> CSS | Chakra-UI | Tailwindcss | Material-UI ✅
+
+> Mongodb 🚀
+
+> Postgresql | MySQL 👩‍💻
+
+> Reactjs | NextJs | Gatsbyjs 💯
+
+> Redux | Hooks 🐺
+
+> Expressjs ✅
+
+> Flask 🚀
+
+> GraphQL 🚀
+
+> Rest API 💯
 
 <div style="display: inline-block" ><br/>
     <img align="center" alt="Fasunle-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
