@@ -65,6 +65,6 @@ I look forward to starting a career as a fullstack software developer.
 ## 🎁 Daily growth
 
 <a href="https://app.daily.dev/kehinde_fasunle">
-<img src="https://github.com/Fasunle/Fasunle/blob/master/devcard.svg" width="700" alt="Kehinde Hussein, Fasunle's Dev Card"/>
+<img src="https://github.com/Fasunle/Fasunle/blob/main/devcard.svg" width="400" alt="Kehinde Hussein, Fasunle's Dev Card"/>
 </a>
 
