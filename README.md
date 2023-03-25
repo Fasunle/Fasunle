@@ -49,8 +49,6 @@ I look forward to starting a career as a fullstack software developer.
 
 > Rest API 💯
 
-<a href="https://app.daily.dev/kehinde_fasunle"><img src="https://api.daily.dev/devcards/4715678388d74203a796c3d40598b581.png?r=jiu" width="400" alt="Kehinde Hussein, Fasunle's Dev Card"/></a>
-
 <div style="display: inline-block" ><br/>
     <img align="center" alt="Fasunle-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Fasunle-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
@@ -64,11 +62,9 @@ I look forward to starting a career as a fullstack software developer.
     <img align="center" alt="Fasunle-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-## 🆕 New Exploration
-<!-- generated with [devicon](https://devicon.dev/) -->
+## 🎁 Daily growth
 
-<!---
-Fasunle/Fasunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div>I am learning solidity, d3 and more on SQL database management systems.</div>
+<a href="https://app.daily.dev/kehinde_fasunle">
+<img src="https://github.com/Fasunle/Fasunle/blob/master/devcard.svg" width="700" alt="Kehinde Hussein, Fasunle's Dev Card"/>
+</a>
+
