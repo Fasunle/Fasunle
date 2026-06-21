@@ -11,8 +11,8 @@ Holding both a B.Sc. and an M.Sc. in **Biochemistry and Molecular Biology** from
 ### 📊 My GitHub Ecosystem at a Glance
 
 <div align="left">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Fasunle&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_title=false" alt="Kehinde's Repository Stats">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasunle&layout=compact&langs_count=16&include_all_commits=true&theme=midnight-purple&hide_title=false" alt="Top Languages Used">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Fasunle&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_title=false" alt="Kehinde's Repository Stats">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasunle&layout=compact&langs_count=16&include_all_commits=true&theme=midnight-purple&hide_title=false" alt="Top Languages Used">
 </div>
 
 ---
